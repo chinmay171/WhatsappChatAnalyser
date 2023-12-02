@@ -2,3 +2,6 @@
 pyvenv.cfg
 __pycache__
 Lib
+PythonScripts
+Scripts
+share
